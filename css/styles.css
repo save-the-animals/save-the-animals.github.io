@@ -1,0 +1,27 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h1 {
+  color: black
+  font-family: cursive;
+}
+
+#navbarsExampleDefault {
+  font-family: cursive;
+}
+
+#bigname {
+  font-family: cursive;
+}
+
+body {
+   background-color: teal
+}
+
+.lead {
+  color: red
+}
